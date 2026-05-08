@@ -1,5 +1,9 @@
 # Qt 6.11 MinGW: MySQL/MariaDB-Treiber einrichten
-In diesem Repository geht es um das Setup von den Qt-MySql Modulen
+In diesem Repository geht es um das Setup von den Qt-MySql Modulen.
+
+**WICHTIG: Funktioniert nur bei CMake-Projekten, nicht qmake**
+
+
 Gültig für:
 
 ```txt
