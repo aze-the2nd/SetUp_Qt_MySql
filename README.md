@@ -8,12 +8,13 @@ MinGW 64-bit
 Windows
 ```
 
-Ihr müsstet also erst Qt 6.11.0 installieren und bei der Installation, die MinGW 64-bit Compiler  
-![[Qt611_Modules.png|https://github.com/aze-the2nd/SetUp_Qt_MySql/blob/main/Qt611_Modules.png]]
+Ihr müsstet also erst Qt 6.11.0 installieren und bei der Installation den MinGW 64-bit Compiler auswählen:
 
-sowie Qt Sources-Paket mit installieren.
+![Qt 6.11 Module auswählen](Ressources/Qt611_Modules.png)
 
-![[build_tools_maintenance_tool.png]]
+Außerdem muss das Qt Sources-Paket mit installiert werden:
+
+![Qt Sources über Maintenance Tool installieren](Ressources/build_tools_maintenance_tool.png)
 
 Bei anderer Qt-Version müssen die Plugins neu gebaut werden.
 
