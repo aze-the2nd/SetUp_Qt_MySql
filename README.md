@@ -8,8 +8,16 @@ MinGW 64-bit
 Windows
 ```
 
-Ihr müsstet also erst Qt 6.11.0 installieren und bei der Installation, die MinGW 64-bit Compiler sowie Qt Sources-Paket mit installieren.
+Ihr müsstet also erst Qt 6.11.0 installieren und bei der Installation, die MinGW 64-bit Compiler  
+![[Qt611_Modules.png|689]]
+
+sowie Qt Sources-Paket mit installieren.
+
+![[build_tools_maintenance_tool.png]]
+
 Bei anderer Qt-Version müssen die Plugins neu gebaut werden.
+
+
 ## Benötigte Dateien
 
 Die ZIP enthält:
