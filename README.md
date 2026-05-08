@@ -15,15 +15,19 @@ Windows
 Ihr müsstet also erst Qt 6.11.0 installieren und bei der Installation folgende Module mitinstallieren.(siehe Screenshots)
 
 
-![Qt 6.11 Module auswählen](Ressources/Qt611_Modules.png)
+![Qt 6.11 Module auswählen|588](Ressources/Qt611_Modules.png)
 
 
-![Qt Sources über Maintenance Tool installieren](Ressources/build_tools_maintenance_tool.png)
+![Qt Sources über Maintenance Tool installieren|591](Ressources/build_tools_maintenance_tool.png)
 
 Bei anderer Qt-Version müssen die Plugins neu gebaut werden.
 
 
 ## Benötigte Dateien
+
+Unter [Release](https://example.com) auf den Link **_qt-6.11.0-mingw64-mysql-driver.zip_** klicken um die ZIP-File runterzuladen.
+
+![Qt Sources über Maintenance Tool installieren|591](Ressources/release_qt_driver.png)
 
 Die ZIP enthält:
 

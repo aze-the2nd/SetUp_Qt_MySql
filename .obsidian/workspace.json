@@ -183,11 +183,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "622c08875e131103",
+  "active": "bbfa5972faead004",
   "lastOpenFiles": [
+    "Ressources/release_qt_driver.png",
+    "README.md",
+    "qt-6.11.0-mingw64-mysql-driver.zip",
+    "Nicht bestätigt 772662.crdownload",
     "Ressources/build_tools_maintenance_tool.png",
     "Ressources/Qt611_Modules.png",
-    "README.md",
     "Ressources"
   ]
 }
