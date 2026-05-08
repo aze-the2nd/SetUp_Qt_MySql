@@ -9,7 +9,7 @@ Windows
 ```
 
 Ihr müsstet also erst Qt 6.11.0 installieren und bei der Installation, die MinGW 64-bit Compiler  
-![[Qt611_Modules.png|689]]
+![[Qt611_Modules.png|https://github.com/aze-the2nd/SetUp_Qt_MySql/blob/main/Qt611_Modules.png]]
 
 sowie Qt Sources-Paket mit installieren.
 
